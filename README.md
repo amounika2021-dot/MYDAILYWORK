@@ -3,4 +3,4 @@ Submitted for MyDailyWork Internship
 Tasks completed:
 1.To-Do List
 2.Calculator
-Password Generator
+3.Password Generator
